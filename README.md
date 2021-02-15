@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gioliveirass/gioliveirass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Olá 🤟🏼
+- ⚡ Meus pronomes são ela/dela.
+- ✨ Me formei como Técnico em Informática na Etec de SJC em 2020, e estou no primeiro semestre de DSM na Fatec de SJC.
+- 📫 Email: giothais.os@gmail.com
+- 🌱 Estou aprendendo:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit" />
+</p>
