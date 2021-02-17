@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 📫 Email: giothais.os@gmail.com
 - 🌱 Estou aprendendo:
 
+
 <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
   <p align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,10 +29,3 @@ Here are some ideas to get you started:
 </a>
 
 <hr>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=dark" />
-  </p>
-</a>
