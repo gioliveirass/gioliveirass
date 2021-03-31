@@ -13,26 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Olá 🤟🏼
-- ⚡ Meus pronomes são ela/dela.
-- ✨ Me formei como Técnico em Informática na Etec de SJC em 2020, e estou no primeiro semestre de DSM na Fatec de SJC.
-- 📫 Email: giothais.os@gmail.com
-- 🌱 Estou aprendendo:
+### Olá :brazil:
 
+Me chamo Giovana e sou formada como Técnico em Informática pela Etec de São José dos Campos (SP) desde 2020. Atualmente me encontro cursando o primeiro semestre de Desenvolvimento de Software Multiplataforma na Fatec, também em São José dos Campos (SP).
 
-<a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit" />
-  </p>
-</a>
+Estou aprendendo **HTML5, CSS3, JavaScript e Python**. Também tenho interesse em tecnologias como **ReactJS, React Native, Angular, Node.js**, entre outros.
 
 <hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=dark" />
-  </p>
-</a>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giothais.os@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass/)
+
+![image](https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=dark)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=dark)
