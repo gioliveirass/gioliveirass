@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/gioliveirass)
-
 ### Olá :brazil:
 
 Me chamo Giovana e sou formada como Técnico em Informática pela Etec de São José dos Campos (SP) desde 2020. Atualmente me encontro cursando o primeiro semestre de Desenvolvimento de Software Multiplataforma na Fatec, também em São José dos Campos (SP).
@@ -28,3 +26,5 @@ Estou aprendendo **HTML5, CSS3, JavaScript e Python**. Também tenho interesse e
 
 ![image](https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=gotham&hide=issues)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=gotham)
+
+![Profile views](https://gpvc.arturio.dev/gioliveirass)
