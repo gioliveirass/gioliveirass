@@ -24,5 +24,5 @@ Estou aprendendo **HTML5, CSS3, JavaScript e Python**. Também tenho interesse e
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giothais.os@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass/)
 
-![image](https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=dark)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=dark)
+![image](https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=gotham&hide=issues)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&layout=compact&theme=gotham)
