@@ -25,5 +25,11 @@
    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/> 
    <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> 
    <img src="https://img.shields.io/badge/Jupyter-20232A.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626" alt="Jupyter" /> 
-    
+</details>
+
+  <details>
+  <summary> <b> Entre em contato comigo <i>(clique para expandir!)</i> </summary>
+   <br>
+   <a href="mailto:giothais.os@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/gioliveirass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </details>
