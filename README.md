@@ -1,35 +1,70 @@
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
-  <samp>
-    Olá 👻 me chamo Giovana Silva
-    <br><br>
-    Estou cursando 🎓 Desenvolvimento de Software Multiplataforma
-    <br><br>
-    Foco em Front-end e UI/UX 💻
-  </samp>
-  <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=onedark&hide=issuesr" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&langs_count=4&layout=compact&theme=onedark&hide=jupyter%20notebook,html,ejs" width = 400>
-</center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7C85D3&repeat=false&width=120&lines=Gio+Silva" alt="Typing SVG" />
+  </a>
+</p>
 
-<details>
-  <summary> <b> Tecnologias e Ferramentas <i>(clique para expandir!)</i> </summary>
-   <br>
-   <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" /> 
-   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" /> 
-   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" /> 
-   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" /> 
-   <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="Typescript" /> 
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> 
-   <img src="https://img.shields.io/badge/Expo-20232A?style=for-the-badge&logo=expo&logoColor=61DAFB" alt="Expo" /> 
-   <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/> 
-   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" /> 
-   <img src="https://img.shields.io/badge/Jupyter-20232A.svg?&style=for-the-badge&logo=Jupyter&logoColor=F37626" alt="Jupyter" /> 
-</details>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=7C85D3&width=405&lines=Desenvolvedora+front-end+web...;Sempre+em+busca+de+conhecimento+%F0%9F%91%BD" alt="Typing SVG" />
+  </a>
+</p>
 
-  <details>
-  <summary> <b> Entre em contato comigo <i>(clique para expandir!)</i> </summary>
-   <br>
-   <a href="mailto:giothais.os@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/gioliveirass/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</details>
+
+<!-- Badges section -->
+
+<div align="center">
+  
+  [![Linkedin](https://img.shields.io/badge/-gioliveirass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gioliveirass/)](https://www.linkedin.com/in/gioliveirass/)
+  [![Gmail](https://img.shields.io/badge/-giothais.os@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giothais.os@gmail.com)](mailto:giothais.os@gmail.com)
+  ![Profile views](https://gpvc.arturio.dev/gioliveirass)
+</div>
+
+<!-- About me section -->
+
+<samp>
+  <h3>🎶 Sobre mim</h3>
+</samp>
+
+```javascript
+  import Desenvolvedor from 'gioliveirass';
+
+  class SobreMim extends Desenvolvedor {
+    nome = 'Giovana O. Silva';
+    area = 'Desenvolvedora front-end web';
+    trabalho = 'www.zukk.com.br - Inovação Geoespacial';
+    educacao = [
+      'técnico em informática - etec prof. ilza nascimento pintus', 
+      'desenvolvimento de software multiplataforma - fatec prof. jessen vidal'
+    ];
+    local = 'São José dos Campos, São Paulo, Brasil';
+  }
+
+  class Skills extends Desenvolvedor {
+    hardSkills = ['javascript', 'typescript', 'react', 'arcgis', 'git', 'figma'];
+    softSkills = ['metodologia agil', 'comunicação', 'trabalho em equipe'];
+  }
+```
+
+<!-- GitHub section -->
+
+<samp>
+  <h3>🎶 Status do GitHub</h3>
+</samp>
+
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=gioliveirass&show_icons=true&theme=onedark&hide=issuesr" width = 385 />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gioliveirass&langs_count=4&layout=compact&theme=onedark&hide=jupyter%20notebook,html,ejs" width = 400 />
+</p>
+
+<!-- GitHub tropheus section -->
+
+<samp>
+  <h3>🎶 Troféus do GitHub</h3>
+</samp>
+
+<p align="center">
+  <img src = "https://github-profile-trophy.vercel.app/?username=gioliveirass&theme=onedark" width = 100% />
+</p>
