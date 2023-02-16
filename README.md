@@ -33,6 +33,7 @@
 
   class SobreMim extends Desenvolvedor {
     nome = 'Giovana O. Silva';
+    pronomes: 'ela/dela';
     area = 'Desenvolvedora front-end web';
     trabalho = 'www.zukk.com.br - Inovação Geoespacial';
     educacao = [
