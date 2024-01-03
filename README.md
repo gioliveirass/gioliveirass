@@ -19,7 +19,6 @@
   
   [![Linkedin](https://img.shields.io/badge/-gioliveirass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gioliveirass/)](https://www.linkedin.com/in/gioliveirass/)
   [![Gmail](https://img.shields.io/badge/-giothais.os@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giothais.os@gmail.com)](mailto:giothais.os@gmail.com)
-  ![Profile views](https://gpvc.arturio.dev/gioliveirass)
 </div>
 
 <!-- About me section -->
