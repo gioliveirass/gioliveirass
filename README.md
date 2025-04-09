@@ -1,6 +1,6 @@
-<center>
-  <img src="https://github.com/user-attachments/assets/fb11d95e-6af5-4a1c-b867-09bdb9fc0499" alt="Octocat" />
-</center>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb11d95e-6af5-4a1c-b867-09bdb9fc0499" alt="Octocat" width="500px" height="500px" />
+</p>
 
 <h1>✨ Olá, mundo</h1>
 
