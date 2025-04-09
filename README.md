@@ -1,3 +1,7 @@
+<center>
+  <img src="https://github.com/user-attachments/assets/fb11d95e-6af5-4a1c-b867-09bdb9fc0499" alt="Octocat" />
+</center>
+
 <h1>✨ Olá, mundo</h1>
 
 Natural de São José dos Campos (SP, Brasil), me formei em Desenvolvimento de Software Multiplataforma pela Fatec. Meu foco principal é o desenvolvimento front-end, área na qual atuo como pleno atualmente. Também tenho interesse em UI/UX, QA e GameDev.
@@ -31,3 +35,4 @@ Me mande uma mensagem através das seguintes plataformas:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giothais.os@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olivelunae/#)
+
